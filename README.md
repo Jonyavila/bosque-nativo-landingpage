@@ -9,7 +9,7 @@ Una landing page de alta gama para un refugio ecológico ficticio ("Bosque Nativ
 
 Este proyecto fue desarrollado como pieza central de mi portafolio para demostrar habilidades en **Desarrollo Frontend, Animación Web (GSAP) y Diseño de Interfaces (UI/UX)**, así como mi capacidad para integrar herramientas de **Inteligencia Artificial** en el flujo de trabajo de desarrollo.
 
-🔗 **[Ver Demo en Vivo]([TU LINK DE VERCEL])**
+🔗![Vista previa de Bosque Nativo](/preview/home-preview.png)
 
 ---
 
